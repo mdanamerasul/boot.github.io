@@ -1,0 +1,68 @@
+.btn-dark{
+	background-color: pink;
+}
+.btn-dark:hover{
+	background-color:green;
+}
+.btn-warning{
+	background-color: red;
+}
+.btn-warning:hover{
+	background-color:lightblue;
+}
+.btn-primary:hover{
+	background-color:orange;
+}
+.jumbotron-fluid{
+	background-color:#ff66b3;
+	color: #003300;
+	text-align: center;
+}
+.lead{
+	color: #990000;
+	text-align: left;
+	transition: all 1s;
+}
+.lead:hover{
+	color: #000099;
+	transform: scale(1.1);
+	animation:50s; 
+}
+.display-4{
+	transition: all 1s;
+	color:  #003300
+}
+.display-4:hover{
+	color:  #ffffff;
+	transform: scale(1.1);
+	animation:50s;
+	cursor: pointer; 
+
+}
+.btn-danger{
+	background-color: #000066 ;
+	color: #990000;
+	text-align: left;
+	transition: all 1s;
+}
+.btn-danger:hover{
+	color:  #ffffff;
+	transform: scale(1.1);
+	animation:50s;
+	 }
+	.col1{
+	background-color: red;
+	font-size: 200px;
+}
+.col2{
+	background-color: orange;
+}
+.col3{
+	background-color: blue;
+}
+.col4{
+	background-color: pink;
+}
+.col5{
+	background-color: purple;
+}
